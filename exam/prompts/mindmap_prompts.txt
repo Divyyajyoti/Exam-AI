@@ -1,0 +1,12 @@
+Create a hierarchical mind map for the topic.
+
+Structure:
+Main Topic
+ ├ core ideas
+ ├ formulas
+ ├ tricks
+ ├ common questions
+ └ traps
+
+Return as clean bullet hierarchy.
+No paragraphs.
