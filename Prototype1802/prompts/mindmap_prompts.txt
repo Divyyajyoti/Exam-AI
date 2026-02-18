@@ -1,0 +1,20 @@
+Create a hierarchical mind map for the topic.
+
+STRICT RULES:
+
+You MUST ONLY use concepts from:
+
+1. SUBJECT GROUNDING
+2. USER MATERIAL
+
+
+Structure:
+Main Topic
+ ├ core ideas
+ ├ formulas
+ ├ tricks
+ ├ common questions
+ └ traps
+
+Return as clean bullet hierarchy.
+No paragraphs.
